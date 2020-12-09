@@ -1,2 +1,2 @@
-# project1
- Projeto 1 - DoS
+# Code for educational purposes
+ Denial of Service in C
